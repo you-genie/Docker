@@ -12,3 +12,7 @@ command: `docker build -t ${image/name:tagname} .`
 * dockerfile building test
 * ubuntu18 + cuda 10.2 + miniconda + pytorch
 
+### cu110-torch-ubuntu20
+* editable Dockerfile
+* ubuntu20 + cuda 11.0 + miniconda + pytorch
+
